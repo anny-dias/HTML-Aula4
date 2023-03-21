@@ -1,0 +1,35 @@
+html{
+    font-size: 16px;
+    background-color: plum;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+p, center{
+    color: rgb(247, 99, 123);
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(199, 66, 66);
+    text-align: center;
+}
+
+li{
+    color: rgb(247, 99, 123);
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: blueviolet;
+    border: 5px solid pink;
+}
+
+img{
+    width: 600px;
+}
