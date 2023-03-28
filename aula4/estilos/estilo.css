@@ -26,10 +26,20 @@ li{
 body{
     width: 600px;
     margin: 0 auto;
+    padding: 3%;
     background-color: pink;
     border: 5px solid rgb(143, 31, 31);
 }
 
 img{
     width: 600px;
+}
+
+#Item2{
+    color: rgb(255, 0, 43)
+}
+
+nav ul{
+    
+
 }
