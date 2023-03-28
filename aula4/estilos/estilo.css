@@ -1,23 +1,23 @@
 html{
     font-size: 16px;
-    background-color: plum;
+    background-color: palevioletred;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 
 
 p, center{
-    color: rgb(247, 99, 123);
+    color: lightcoral;
 }
 
 h1 {
     font-size: 50px;
-    color: rgb(199, 66, 66);
+    color: lightcoral;
     text-align: center;
 }
 
 li{
-    color: rgb(247, 99, 123);
+    color: lightcoral;
     font-size: 12px;
     line-height: 2;
     letter-spacing: 1px;
@@ -26,8 +26,8 @@ li{
 body{
     width: 600px;
     margin: 0 auto;
-    background-color: blueviolet;
-    border: 5px solid pink;
+    background-color: pink;
+    border: 5px solid rgb(143, 31, 31);
 }
 
 img{
